@@ -51,7 +51,7 @@ source .venv/bin/activate
 Create a `.env` file in the root directory and add your Gemini API key:
 
 ```
-GEMINI_API_KEY= AIzaSyAsy6yBAb14nWhlwFafvINUZTAaLKY2S4I
+GEMINI_API_KEY= gemini-api-key here
 ```
 
 ---
